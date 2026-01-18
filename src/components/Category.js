@@ -23,7 +23,7 @@ export default function Category() {
           </li>
         ))}
       </ul>
-      <Outlet />
+      <Outlet/>
     </>
   );
 }
