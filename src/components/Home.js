@@ -9,7 +9,7 @@ export default function Home() {
         alt="Red30 Tech conference attendees on a laptop"
       />
 
-      <h1>Welcome</h1>
+      <h1>Welcome to Red30 tech</h1>
       <p>
         This is a fictitious company and conference created by{" "}
         <a
